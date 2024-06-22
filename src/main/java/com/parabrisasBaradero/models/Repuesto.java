@@ -6,7 +6,7 @@ import org.hibernate.annotations.GenericGenerator;
 
 @Data
 @Entity
-@Table(name = "repuesto")
+@Table(name = "repuestos")
 public class Repuesto {
 
     @Id
